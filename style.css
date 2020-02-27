@@ -30,6 +30,8 @@
 }
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
+    border-radius: 10px;
+}
 }
 .categories h1{
     color: white;
@@ -61,4 +63,7 @@ background-color:#fceae8 ;
 }
 footer{
     text-align: center;
+}
+.pad-bot{
+    padding-bottom: 10px;
 }
